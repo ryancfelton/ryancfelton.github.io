@@ -1117,7 +1117,7 @@ button {
 	}
 
 	/* This sets the image the overlay on the background */
-	#bg:before {
+	/* #bg:before {
 		-moz-transition: background-color 2.5s ease-in-out;
 		-webkit-transition: background-color 2.5s ease-in-out;
 		-ms-transition: background-color 2.5s ease-in-out;
@@ -1133,6 +1133,7 @@ button {
 		/* This sets the order of rendering. This will sit on top of all elements with z-index < 2 */
 		z-index: 2;
 	}
+	*/
 
 	/* This sets the content of the actual background */
 	#bg:after {
